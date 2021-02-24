@@ -1,4 +1,7 @@
 # go-engine
+
+**Do not use this! It's for old lib only!**
+
 golang的通用开发库
 
 ## 内容
